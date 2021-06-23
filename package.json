@@ -1,7 +1,7 @@
 {
   "name": "miprimerlogin",
   "version": "1.0.0",
-  "description": "",
+  "description": "estamos mlos",
   "main": "index.js",
   "scripts": {
     "start": "nodemon ./src/index.js",
